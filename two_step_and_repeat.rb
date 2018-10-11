@@ -22,6 +22,7 @@ def a_few_more_steps
   sleep(1)
 end 
 
+steps = 0 
 
 def how_many_steps?
   steps =+ 1 
